@@ -17,5 +17,5 @@ export default {
 };
 
 export const help = {
-  '8ball': {parameters: 'question'}
+  '8ball': {parameters: 'zapytanie'}
 };
